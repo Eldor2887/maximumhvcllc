@@ -1,0 +1,48 @@
+.white-color {
+    color: aliceblue;
+}
+.center{
+    text-align: center;
+}
+#map{
+    width: auto;
+    height: 300px;
+}
+.green{
+    color: green;
+}
+.fa-envelope, .fa-calendar{
+  border-radius: 0%;
+  color: #fff;
+}
+.fa-envelope:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.fa-envelope:visited{
+    color: #fff;
+    text-decoration: none;
+}
+.fa-calendar:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.fa-calendar:visited{
+    color: #fff;
+    text-decoration: none;
+}
+#review-btn, .request-btn, .contact-btn{
+    border-radius: 1px;
+    padding: 15px;
+    margin-top: 20px;
+}
+.checked {
+  color:orange;
+}
+.fa-star{
+    font-size: 40px;
+    cursor: pointer;
+}
+.red{
+    color: red;
+}
